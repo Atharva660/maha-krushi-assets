@@ -439,6 +439,7 @@
         "odia": "ମାଟିର ସ୍ୱାସ୍ଥ୍ୟ ଏବଂ ସାର ପାଇଁ ସୁପାରିଶ ଏବଂ ମାର୍ଗଦର୍ଶନ।",
         "urdu": "مٹی کی صحت اور کھادوں کے لیے تجاویز اور رہنمائی۔"
       }
+},
 "farmers_details": {
   "title": {
     "english": "Farmer Details & AI Recommendation",
@@ -468,8 +469,7 @@
     "odia": "କୃଷକ ଏବଂ ଖେତ ବିବରଣୀ ଦେଇ AI ଆଧାରିତ ବ୍ୟକ୍ତିଗତ କୃଷି ସୁପାରିଶ ପାଆନ୍ତୁ।",
     "urdu": "کسان اور فارم کی تفصیلات درج کریں اور AI پر مبنی ذاتی زرعی سفارشات حاصل کریں۔"
   }
-}
-
+},
 "government_schemes_ai": {
   "title": {
     "english": "Government Schemes & Price AI Analysis",
