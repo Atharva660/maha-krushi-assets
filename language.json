@@ -453,22 +453,6 @@
     "bengali": "কৃষক বিবরণ ও AI সুপারিশ",
     "odia": "କୃଷକ ବିବରଣୀ ଏବଂ AI ସୁପାରିଶ",
     "urdu": "کسان کی تفصیلات اور AI سفارش"
-  }
-},
-"farmers_details": {
-  "title": {
-    "english": "Farmer Details & AI Recommendation",
-    "hindi": "किसान विवरण और AI सिफारिश",
-    "marathi": "शेतकरी तपशील आणि AI शिफारसी",
-    "punjabi": "ਕਿਸਾਨ ਵੇਰਵੇ ਅਤੇ AI ਸਿਫਾਰਸ਼",
-    "kannada": "ರೈತ ವಿವರಗಳು ಮತ್ತು AI ಶಿಫಾರಸು",
-    "tamil": "விவசாயி விவரங்கள் & AI பரிந்துரை",
-    "telugu": "రైతు వివరాలు మరియు AI సిఫార్సు",
-    "malayalam": "കർഷക വിവരങ്ങളും AI ശുപാർശയും",
-    "gujarati": "ખેડૂત વિગતો અને AI ભલામણ",
-    "bengali": "কৃষক বিবরণ ও AI সুপারিশ",
-    "odia": "କୃଷକ ବିବରଣୀ ଏବଂ AI ସୁପାରିଶ",
-    "urdu": "کسان کی تفصیلات اور AI سفارش"
   },
   "description": {
     "english": "Enter farmer and farm details to receive personalized AI-based crop and farming recommendations.",
